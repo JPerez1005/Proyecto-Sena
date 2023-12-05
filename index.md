@@ -44,6 +44,81 @@
             VideoJuegos o Aprendizaje de Máquinas.
         </p>
         <br>
+        <div class="container">
+            <a href="#diagrama_entidad_relacion" class="button">
+                <div class="button__content">
+                    <span class="button__text">Diagrama Entidad</span>
+                    <i class="ri-artboard-line button_icon"></i>
+                    <div class="button__reflection-1"></div>
+                    <div class="button__reflection-2"></div>
+                </div>
+                <img src="assets/star.png" alt="" class="button__star-1">
+                <img src="assets/star.png" alt="" class="button__star-2">
+                <img src="assets/circle.png" alt="" class="button__circle-1">
+                <img src="assets/circle.png" alt="" class="button__circle-2">
+                <img src="assets/diamond.png" alt="" class="button__diamond">
+                <img src="assets/triangle.png" alt="" class="button__triangle">
+                <div class="button__shadow"></div>
+            </a>
+            <a href="#diagrama_relacional" class="button">
+                <div class="button__content">
+                    <span class="button__text">Diagrama Relacional</span>
+                    <i class="ri-artboard-line button_icon"></i>
+                    <div class="button__reflection-1"></div>
+                    <div class="button__reflection-2"></div>
+                </div>
+                <img src="assets/star.png" alt="" class="button__star-1">
+                <img src="assets/star.png" alt="" class="button__star-2">
+                <img src="assets/circle.png" alt="" class="button__circle-1">
+                <img src="assets/circle.png" alt="" class="button__circle-2">
+                <img src="assets/diamond.png" alt="" class="button__diamond">
+                <img src="assets/triangle.png" alt="" class="button__triangle">
+                <div class="button__shadow"></div>
+            </a>
+            <a href="#modelo_base" class="button">
+                <div class="button__content">
+                    <span class="button__text">Modelo Base</span>
+                    <i class="ri-database-2-line button_icon"></i>
+                    <div class="button__reflection-1"></div>
+                    <div class="button__reflection-2"></div>
+                </div>
+                <img src="assets/star.png" alt="" class="button__star-1">
+                <img src="assets/star.png" alt="" class="button__star-2">
+                <img src="assets/circle.png" alt="" class="button__circle-1">
+                <img src="assets/circle.png" alt="" class="button__circle-2">
+                <img src="assets/diamond.png" alt="" class="button__diamond">
+                <img src="assets/triangle.png" alt="" class="button__triangle">
+                <div class="button__shadow"></div>
+            </a>
+            <a href="#consultas" class="button">
+                <div class="button__content">
+                    <span class="button__text">Consultas</span>
+                    <i class="ri-terminal-box-line button_icon"></i>
+                    <div class="button__reflection-1"></div>
+                    <div class="button__reflection-2"></div>
+                </div>
+                <img src="assets/star.png" alt="" class="button__star-1">
+                <img src="assets/star.png" alt="" class="button__star-2">
+                <img src="assets/circle.png" alt="" class="button__circle-1">
+                <img src="assets/circle.png" alt="" class="button__circle-2">
+                <img src="assets/diamond.png" alt="" class="button__diamond">
+                <img src="assets/triangle.png" alt="" class="button__triangle">
+                <div class="button__shadow"></div>
+            </a>
+        </div>
+        <div id="diagrama_entidad_relacion" class="secciones">
+            <!-- <marquee> -->
+                <h2>
+                    Diagrama Entidad Relación
+                </h2>
+            <!-- </marquee> -->
+            <center>
+                <div class="parallax-3">
+                </div>
+                <div class="parallax-3-2">
+                </div>
+            </center>
+        </div>
         <div id="diagrama_relacional" class="secciones">
             <!-- <marquee> -->
                 <h2>
